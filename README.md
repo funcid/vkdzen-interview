@@ -30,3 +30,7 @@ public interface RecommenderService<Document, User> {
 
 Необходимо реализовать RecommenderService, написать тесты,
 реализация должна быть потокобезопастной 
+
+### Результат
+
+Решение на уровне `Middle-`
