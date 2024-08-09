@@ -76,7 +76,13 @@ public interface RecommenderService<Document, User> {
 ### Задача
 
 Необходимо реализовать RecommenderService, написать тесты,
-реализация должна быть потокобезопастной 
+реализация должна быть потокобезопасной 
+
+### Решение
+
+<a href="./src/main/java/me/func/section/storage/InMemoryDocumentStorage.java">Реализация рекомендательно сервиса</a></br>
+<a href="./src/main/java/me/func/section/CommonRecommenderService.java">Реализация InMemory хранилища</a></br>
+<a href="./src/test/java/me/func/section/CommonRecommenderServiceTest.java">Тест рекомендательного сервиса</a></br>
 
 ### Результат
 
